@@ -487,7 +487,7 @@ for (i=0; i<=nc; i++)
       Swf1w_Dofw_dfff[i]*\
       (mfw_Dofw[i]-mfw_Dofw_t0[i]);
        //
-       Fpkff[i]=-Fpkff[i];// нужно спросить ????????????
+//       Fpkff[i]=-Fpkff[i];// нужно спросить ????????????
     //fprintf(Fabc,"%20.25le %20.25le %20.25le %20.25le\n",Apkff[i],Cpkff[i],Bpkff[i],Fpkff[i]);
     }
    
